@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ReporteDeTareas>
+    <Tarea iD="673">
+        <FechaCreacion>15/12/2025</FechaCreacion>
+        <HoraCreacion>10:37</HoraCreacion>
+        <Descripcion>Reporte de sistemas digitales</Descripcion>
+        <Estado>COMPLETA</Estado>
+    </Tarea>
+    <Tarea iD="012">
+        <FechaCreacion>21/12/2025</FechaCreacion>
+        <HoraCreacion>07:21</HoraCreacion>
+        <Descripcion>Reporte Programa Python ACT3.1</Descripcion>
+        <Estado>COMPLETA</Estado>
+    </Tarea>
+    <Tarea iD="728">
+        <FechaCreacion>29/12/2025</FechaCreacion>
+        <HoraCreacion>09:58</HoraCreacion>
+        <Descripcion>Practica Hilos</Descripcion>
+        <Estado>PENDIENTE</Estado>
+    </Tarea>
+    <Tarea iD="123">
+        <FechaCreacion>28/05/2026</FechaCreacion>
+        <HoraCreacion>09:58</HoraCreacion>
+        <Descripcion> Terminando Practica Hilos</Descripcion>
+        <Estado>PENDIENTE</Estado>
+    </Tarea>
+</ReporteDeTareas>
